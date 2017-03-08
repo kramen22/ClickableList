@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ClickableList</string>
+    <string name="question_1">Are you this or are you that?</string>
 </resources>

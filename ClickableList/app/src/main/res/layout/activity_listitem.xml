@@ -4,9 +4,20 @@
     android:layout_height="wrap_content"
     android:orientation="vertical">
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/my_textview"/>
+        android:id="@+id/my_textview"
+        android:text="@string/question_1"/>
+
+    <ListView
+        android:id="@+id/listView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:entries="@array/question_1_answers" >
+    </ListView>
 
 </LinearLayout>
