@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sections">
+        <item >Question 1</item>
+        <item >Question 2</item>
+        <item >Qeustion 3</item>
+        <item >Question 4</item>
+        <item >Question 5</item>
+        <item >Question 6</item>
+        <item >Question 7</item>
+        <item >Con Summary</item>
+        <item >Grand Cross</item>
+        <item >Pro Final Focus</item>
+        <item >Con Final Focus</item>
+    </string-array>
+</resources>
